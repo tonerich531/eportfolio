@@ -1,10 +1,8 @@
-<style>
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
-</style>
+
 
 * {
-    font-family: lato, sans-serif;
-    ;
+    font-family: lato, roboto, sans-serif;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -27,4 +25,5 @@
         height: 100px;
         width: 100%;
         max-width: 1000px;
-        margin: 0;
+        margin: 0 auto;
+    }
