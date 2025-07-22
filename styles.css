@@ -2,7 +2,7 @@
 
 
 * {
-    font-family: lato, roboto, sans-serif;
+    font-family: lato, sans-serif;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -26,4 +26,6 @@
         width: 100%;
         max-width: 1000px;
         margin: 0 auto;
+        display: flex;;
     }
+
