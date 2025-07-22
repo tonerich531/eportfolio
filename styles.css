@@ -3,10 +3,11 @@
 </style>
 
 * {
-    font-family: lato,;
+    font-family: lato, sans-serif;
+    ;
     padding: 0;
     margin: 0;
-    box-sizing;
+    box-sizing: border-box;
 }
 
     h1, h2, h3, h4, h5, h6, span {
@@ -27,5 +28,3 @@
         width: 100%;
         max-width: 1000px;
         margin: 0;
-
-    }
