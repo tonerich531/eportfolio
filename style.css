@@ -173,8 +173,9 @@ button:active {
 
 
 #highlights {
-    position: relative
-    max-width
+    position: relative;
+    max-width: 100vw;
+    
 }
 
 
@@ -256,12 +257,14 @@ button:active {
 
 
 #features {
-    height: 1000px;
-    padding-top: 24px;   
-    background-color: rgb(115, 66, 215, 0.1);
+    padding-top: 8vw;   
+    background-color: rgba(116, 66, 215, 0.233);
 }
 
 
+.books {
+    display: flex;
+}
 
 
 
