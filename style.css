@@ -356,7 +356,8 @@ button:active {
 
 
 .books {
-    display: flex;    
+    display: flex;
+    flex-wrap: wrap;  
 }
 
 
@@ -473,7 +474,7 @@ footer {
     }
 
 
-    .books {
+    .book {
         width: 50%;
     }
     
